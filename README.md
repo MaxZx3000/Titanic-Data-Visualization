@@ -1,4 +1,4 @@
-# Titanic-Data-Visualization
+# Titanic Data Visualization Project
 
 Made by Anthony Kevin Oktavius
 
